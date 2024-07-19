@@ -18,8 +18,8 @@ const About = () => {
               <VscVerifiedFilled  size={40} className="text-blue-700" />
             </div>
             <img
-              src="/public/images/kartun2.jpg"
-              alt="kartun"
+              src="./public/images/kartun2.jpg"
+              alt="profil"
               className="size-28 rounded-lg min-w-28 min-h-full "
             />
           </div>
